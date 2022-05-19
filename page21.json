@@ -1,0 +1,1212 @@
+{
+  "next": "/api/ranking/dapp/?chain=0&format=json&order=desc&page=22&sort=user_30d",
+  "previous": "/api/ranking/dapp/?chain=0&format=json&order=desc&page=20&sort=user_30d",
+  "count": 3453,
+  "pages": 231,
+  "results": [
+    {
+      "ranking": 62.0955106954275,
+      "ranking_gr": -0.0746416085299208,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 143322,
+      "community_gr": 0.0,
+      "user_24h": 19,
+      "amount_24h": 93,
+      "volume_24h": 0.0,
+      "usd_24h": 0.0,
+      "user_24h_gr": -0.547619047619048,
+      "amount_24h_gr": -0.69205298013245,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": 1.0,
+      "user_7d": 123,
+      "amount_7d": 1190,
+      "volume_7d": 0.0,
+      "usd_7d": 0.0,
+      "user_7d_gr": -0.284883720930233,
+      "amount_7d_gr": -0.457364341085271,
+      "volume_7d_gr": 1.0,
+      "usd_7d_gr": 1.0,
+      "user_30d": 387,
+      "amount_30d": 10833,
+      "volume_30d": 0.0,
+      "usd_30d": 0.0,
+      "user_30d_gr": -0.112385321100917,
+      "amount_30d_gr": 0.157371794871795,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": -1.0,
+      "usds_24h": [{ "token": "BNB", "usd": 0.0, "ratio": 0 }],
+      "usds_7d": [{ "token": "BNB", "usd": 0.0, "ratio": 0 }],
+      "usds_30d": [{ "token": "BNB", "usd": 0.0, "ratio": 0 }],
+      "dapp": {
+        "pk": 6853,
+        "identifier": "dragon-kart",
+        "name": "Dragon Kart",
+        "icon": "https://dappimg.com/media/image/dapp/2a19186d5c2d4085888ca199aef3bd16.blob",
+        "category": {
+          "pk": 1,
+          "name": "Game",
+          "icon": "https://dappimg.com/media/image/category/51b6f2a9f70a41d8a834c98cdbebcc1f.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 56,
+            "name": "BNB Chain",
+            "icon": "https://dappimg.com/media/image/chain/41f2c77c290f41d7a2b151e6860c86b4.png",
+            "icon_new": "https://dappimg.com/media/image/chain/2ccb44b9873d45d1a0ca4cca58cfe592.png",
+            "color_icon": "https://dappimg.com/media/image/chain/636c8ed981c4468f99b46e8a42dd4e13.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2021-11-10 01:01:04",
+        "abstract": "Dragon Kart is a 3D racing e-sport game ",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 5509,
+        "social_signal_gr": -0.390462491701704,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 73.1736753225998,
+      "ranking_gr": 0.10561901351672,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 141894,
+      "community_gr": 0.0,
+      "user_24h": 47,
+      "amount_24h": 87,
+      "volume_24h": 42.7630815088267,
+      "usd_24h": 12829.3520834631,
+      "user_24h_gr": 0.175,
+      "amount_24h_gr": 0.191780821917808,
+      "volume_24h_gr": 8.00870940287534,
+      "usd_24h_gr": 7.76931508097543,
+      "user_7d": 155,
+      "amount_7d": 480,
+      "volume_7d": 93.0548371356364,
+      "usd_7d": 27665.8425256127,
+      "user_7d_gr": 0.0197368421052632,
+      "amount_7d_gr": -0.26605504587156,
+      "volume_7d_gr": -0.0743740029832308,
+      "usd_7d_gr": -0.156368344491179,
+      "user_30d": 385,
+      "amount_30d": 2240,
+      "volume_30d": 412.282282540688,
+      "usd_30d": 147024.937620329,
+      "user_30d_gr": 0.0606060606060606,
+      "amount_30d_gr": 0.013116236996834,
+      "volume_30d_gr": 0.469788528749662,
+      "usd_30d_gr": 0.290442241127092,
+      "usds_24h": [{ "token": "BNB", "usd": 12829.352083463109, "ratio": 1.0 }],
+      "usds_7d": [{ "token": "BNB", "usd": 27665.842525612698, "ratio": 1.0 }],
+      "usds_30d": [{ "token": "BNB", "usd": 147024.9376203286, "ratio": 1.0 }],
+      "dapp": {
+        "pk": 7309,
+        "identifier": "owl-games-bsc",
+        "name": "OWL GAMES BSC",
+        "icon": "https://dappimg.com/media/image/dapp/41d8fb33b52c4c7fb8f38b5ae64ef8e3.blob",
+        "category": {
+          "pk": 11,
+          "name": "Gambling",
+          "icon": "https://dappimg.com/media/image/category/bee5e5886cfc4fdf9422395fb401a5cb.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 56,
+            "name": "BNB Chain",
+            "icon": "https://dappimg.com/media/image/chain/41f2c77c290f41d7a2b151e6860c86b4.png",
+            "icon_new": "https://dappimg.com/media/image/chain/2ccb44b9873d45d1a0ca4cca58cfe592.png",
+            "color_icon": "https://dappimg.com/media/image/chain/636c8ed981c4468f99b46e8a42dd4e13.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2022-02-05 21:49:15",
+        "abstract": "Owl.Games is a licensed Web-3 crypto casino with more than 3000 games.",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 413,
+        "social_signal_gr": 0.029925187032419,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 80.2637904484747,
+      "ranking_gr": 0.0641452497239859,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 27246,
+      "community_gr": 0.0,
+      "user_24h": 27,
+      "amount_24h": 63,
+      "volume_24h": 1373.2423,
+      "usd_24h": 968.3047303029,
+      "user_24h_gr": 0.285714285714286,
+      "amount_24h_gr": 0.0327868852459016,
+      "volume_24h_gr": 5.02299254385965,
+      "usd_24h_gr": 5.03450316932889,
+      "user_7d": 114,
+      "amount_7d": 321,
+      "volume_7d": 6129.12565538872,
+      "usd_7d": 4102.51145609862,
+      "user_7d_gr": -0.142857142857143,
+      "amount_7d_gr": 0.142348754448399,
+      "volume_7d_gr": -0.856188570929485,
+      "usd_7d_gr": -0.955216286998239,
+      "user_30d": 377,
+      "amount_30d": 1212,
+      "volume_30d": 73820.8560656633,
+      "usd_30d": 125636.275639972,
+      "user_30d_gr": 0.0443213296398892,
+      "amount_30d_gr": -0.272509003601441,
+      "volume_30d_gr": -0.105885498518731,
+      "usd_30d_gr": 0.0719276519791754,
+      "usds_24h": [{ "token": "MATIC", "usd": 968.3047303029, "ratio": 1.0 }],
+      "usds_7d": [{ "token": "MATIC", "usd": 4102.51145609862, "ratio": 1.0 }],
+      "usds_30d": [
+        {
+          "token": "MATIC",
+          "usd": 66766.67066627351,
+          "ratio": 0.5314282863462367
+        },
+        {
+          "token": "WMATIC",
+          "usd": 58869.60497369801,
+          "ratio": 0.4685717136537633
+        }
+      ],
+      "dapp": {
+        "pk": 6268,
+        "identifier": "wardenswap-polygon",
+        "name": "WardenSwap Polygon",
+        "icon": "https://dappimg.com/media/image/dapp/ee158934ec5046709ebab1603ff18ae2.blob",
+        "category": {
+          "pk": 10,
+          "name": "Exchange",
+          "icon": "https://dappimg.com/media/image/category/e0bde8ede0cd4c47a9553f0aba410731.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 47,
+            "name": "Polygon (Matic)",
+            "icon": "https://dappimg.com/media/image/chain/7925ccea6d994c22b8021f9311ccd806.png",
+            "icon_new": "https://dappimg.com/media/image/chain/35aec2bd1c0e450fb9ffdf2fb3e74b3e.png",
+            "color_icon": "https://dappimg.com/media/image/chain/5ded4594a8f141a2b8ceacc27418b75f.png",
+            "support_token": true
+          }
+        ],
+        "add_time": "2021-07-11 13:12:45",
+        "abstract": "WardenSwap : the best price search engine.",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 406,
+        "social_signal_gr": -0.550884955752212,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 60.511290381521,
+      "ranking_gr": 0.000323545543326892,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 35085,
+      "community_gr": 0.0,
+      "user_24h": 33,
+      "amount_24h": 60,
+      "volume_24h": 0.0,
+      "usd_24h": 6549067.19927307,
+      "user_24h_gr": 0.375,
+      "amount_24h_gr": -0.117647058823529,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": -0.606174416358689,
+      "user_7d": 123,
+      "amount_7d": 359,
+      "volume_7d": 0.0,
+      "usd_7d": 62053008.199208,
+      "user_7d_gr": -0.082089552238806,
+      "amount_7d_gr": -0.0818414322250639,
+      "volume_7d_gr": 1.0,
+      "usd_7d_gr": 0.155128625957842,
+      "user_30d": 376,
+      "amount_30d": 1155,
+      "volume_30d": 0.0,
+      "usd_30d": 168162732.096227,
+      "user_30d_gr": -0.0983213429256595,
+      "amount_30d_gr": -0.0625,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": 0.241047003715354,
+      "usds_24h": [
+        { "token": "ETH", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "cUSDC",
+          "usd": 2491509.710993818,
+          "ratio": 0.3804373409499246
+        },
+        {
+          "token": "Others",
+          "usd": 4057557.488279255,
+          "ratio": 0.6195626590500753
+        }
+      ],
+      "usds_7d": [
+        { "token": "ETH", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "USD Coin",
+          "usd": 35445235.94446221,
+          "ratio": 0.5712089868499656
+        },
+        {
+          "token": "Others",
+          "usd": 26607772.254745793,
+          "ratio": 0.4287910131500344
+        }
+      ],
+      "usds_30d": [
+        { "token": "ETH", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "USD Coin",
+          "usd": 114319588.24687406,
+          "ratio": 0.679815240997972
+        },
+        {
+          "token": "Others",
+          "usd": 53843143.8493531,
+          "ratio": 0.32018475900202803
+        }
+      ],
+      "dapp": {
+        "pk": 4651,
+        "identifier": "mstable",
+        "name": "mStable",
+        "icon": "https://dappimg.com/media/image/dapp/c915ac1844814c0f92f7b38ec4fd7d03.jpg",
+        "category": {
+          "pk": 2,
+          "name": "Finance",
+          "icon": "https://dappimg.com/media/image/category/8969764fde93468f8ad5298b3ed45289.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 1,
+            "name": "Ethereum",
+            "icon": "https://dappimg.com/media/image/chain/84e0e372b99b447e9612e850dcd024e0.png",
+            "icon_new": "https://dappimg.com/media/image/chain/a70cd16d51fb4c7d974b4f01f4f6cc8d.png",
+            "color_icon": "https://dappimg.com/media/image/chain/c95deff72e7c4181ad90d80d7819e8e0.png",
+            "support_token": true
+          }
+        ],
+        "add_time": "2020-08-16 11:46:42",
+        "abstract": "mStable builds autonomous and non-custodial stablecoin infrastructure.",
+        "heat": 2,
+        "has_token": true,
+        "alexa_ranking": 45853,
+        "social_signal": 178,
+        "social_signal_gr": -0.450617283950617,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 67.0327009982384,
+      "ranking_gr": -0.25883546028479,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 5543,
+      "community_gr": 0.0,
+      "user_24h": 131,
+      "amount_24h": 859,
+      "volume_24h": 0.0,
+      "usd_24h": 0.0,
+      "user_24h_gr": 0.00769230769230769,
+      "amount_24h_gr": -0.0423634336677815,
+      "volume_24h_gr": -1.0,
+      "usd_24h_gr": -1.0,
+      "user_7d": 141,
+      "amount_7d": 4687,
+      "volume_7d": 1000000.0,
+      "usd_7d": 7465.2732,
+      "user_7d_gr": -0.344186046511628,
+      "amount_7d_gr": -0.629427577482606,
+      "volume_7d_gr": -0.666666666666667,
+      "usd_7d_gr": -0.768563895558887,
+      "user_30d": 376,
+      "amount_30d": 62716,
+      "volume_30d": 8000000.0,
+      "usd_30d": 125196.624097795,
+      "user_30d_gr": -0.169977924944812,
+      "amount_30d_gr": 0.483945768166008,
+      "volume_30d_gr": 0.142857142857143,
+      "usd_30d_gr": -0.12744012932578,
+      "usds_24h": [{ "token": "TT", "usd": 0.0, "ratio": 0 }],
+      "usds_7d": [
+        { "token": "TT", "usd": 6670.67, "ratio": 0.8935600642184133 },
+        { "token": "TT-BUSD", "usd": 716.2132, "ratio": 0.09593931538902019 },
+        { "token": "Others", "usd": 78.39, "ratio": 0.010500620392566476 }
+      ],
+      "usds_30d": [
+        {
+          "token": "TT",
+          "usd": 66073.01000000001,
+          "ratio": 0.5277539268821536
+        },
+        {
+          "token": "TT-USDC",
+          "usd": 40088.14253883,
+          "ratio": 0.32020146571616814
+        },
+        {
+          "token": "Others",
+          "usd": 19035.47155896468,
+          "ratio": 0.15204460740167822
+        }
+      ],
+      "dapp": {
+        "pk": 5685,
+        "identifier": "tt-farm",
+        "name": "TT Farm",
+        "icon": "https://dappimg.com/media/image/dapp/5413c8b95a5b45c49a3b27d7782f685f.blob",
+        "category": {
+          "pk": 2,
+          "name": "Finance",
+          "icon": "https://dappimg.com/media/image/category/8969764fde93468f8ad5298b3ed45289.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 22,
+            "name": "ThunderCore",
+            "icon": "https://dappimg.com/media/image/chain/5ecf082063f14389a8a70ea15a1addee.png",
+            "icon_new": "https://dappimg.com/media/image/chain/2ddf6666d23d4bd6a4632ffee5c8469b.png",
+            "color_icon": "https://dappimg.com/media/image/chain/4d0741473f454130ad04bc44b259ddd8.png",
+            "support_token": true
+          }
+        ],
+        "add_time": "2021-03-23 10:07:27",
+        "abstract": "Build up your happy farm with your favorite farm animals!",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 3190,
+        "social_signal_gr": -0.27235401459854,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 66.4234121293179,
+      "ranking_gr": -0.0079014346877631,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 15633,
+      "community_gr": 0.0,
+      "user_24h": 40,
+      "amount_24h": 464,
+      "volume_24h": 0.0,
+      "usd_24h": 4.05207962120371,
+      "user_24h_gr": -0.2,
+      "amount_24h_gr": -0.10077519379845,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": -0.366383776135972,
+      "user_7d": 151,
+      "amount_7d": 2556,
+      "volume_7d": 0.0,
+      "usd_7d": 47.1862197324572,
+      "user_7d_gr": 0.0785714285714286,
+      "amount_7d_gr": 0.331943720687858,
+      "volume_7d_gr": 1.0,
+      "usd_7d_gr": -0.155613831931486,
+      "user_30d": 376,
+      "amount_30d": 11175,
+      "volume_30d": 0.0,
+      "usd_30d": 256.82043155856,
+      "user_30d_gr": -0.256916996047431,
+      "amount_30d_gr": -0.37541918175721,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": -0.554134390073162,
+      "usds_24h": [
+        { "token": "MATIC", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "WMATIC",
+          "usd": 2.7099792842459074,
+          "ratio": 0.6687872740864067
+        },
+        {
+          "token": "Others",
+          "usd": 1.342100336957801,
+          "ratio": 0.3312127259135934
+        }
+      ],
+      "usds_7d": [
+        { "token": "MATIC", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "WMATIC",
+          "usd": 27.734806884270306,
+          "ratio": 0.5877734440589831
+        },
+        {
+          "token": "Others",
+          "usd": 19.451412848186873,
+          "ratio": 0.41222655594101687
+        }
+      ],
+      "usds_30d": [
+        { "token": "MATIC", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "WMATIC",
+          "usd": 139.0205453674037,
+          "ratio": 0.5413141957738055
+        },
+        {
+          "token": "Others",
+          "usd": 117.79988619115657,
+          "ratio": 0.4586858042261945
+        }
+      ],
+      "dapp": {
+        "pk": 6123,
+        "identifier": "firebird-finance",
+        "name": "Firebird Finance",
+        "icon": "https://dappimg.com/media/image/dapp/56827ccc5fa24252a545e6c8bcdc6960.blob",
+        "category": {
+          "pk": 10,
+          "name": "Exchange",
+          "icon": "https://dappimg.com/media/image/category/e0bde8ede0cd4c47a9553f0aba410731.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 47,
+            "name": "Polygon (Matic)",
+            "icon": "https://dappimg.com/media/image/chain/7925ccea6d994c22b8021f9311ccd806.png",
+            "icon_new": "https://dappimg.com/media/image/chain/35aec2bd1c0e450fb9ffdf2fb3e74b3e.png",
+            "color_icon": "https://dappimg.com/media/image/chain/5ded4594a8f141a2b8ceacc27418b75f.png",
+            "support_token": true
+          }
+        ],
+        "add_time": "2021-06-18 12:08:46",
+        "abstract": "DeFi multi-chain yield farms deployer & DEXs aggregator",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 1401,
+        "social_signal_gr": -0.171985815602837,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 57.5673835794955,
+      "ranking_gr": 0.0104392310166347,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 83188,
+      "community_gr": 0.0,
+      "user_24h": 16,
+      "amount_24h": 30,
+      "volume_24h": 0.0,
+      "usd_24h": 13085.9423194366,
+      "user_24h_gr": 0.0666666666666667,
+      "amount_24h_gr": 0.153846153846154,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": 5.32066474417552,
+      "user_7d": 112,
+      "amount_7d": 264,
+      "volume_7d": 0.0,
+      "usd_7d": 45647.9262329258,
+      "user_7d_gr": -0.232876712328767,
+      "amount_7d_gr": -0.258426966292135,
+      "volume_7d_gr": 1.0,
+      "usd_7d_gr": 0.012209927180256,
+      "user_30d": 375,
+      "amount_30d": 1081,
+      "volume_30d": 0.0,
+      "usd_30d": 255306.323170734,
+      "user_30d_gr": 0.171875,
+      "amount_30d_gr": 0.12839248434238,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": 0.0897027522664521,
+      "usds_24h": [
+        { "token": "BNB", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "BTC Standard Hashrate Token",
+          "usd": 11139.612808591306,
+          "ratio": 0.8512656205159613
+        },
+        {
+          "token": "Others",
+          "usd": 1946.3295108453287,
+          "ratio": 0.1487343794840386
+        }
+      ],
+      "usds_7d": [
+        { "token": "BNB", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "BTC Standard Hashrate Token",
+          "usd": 33382.93431213191,
+          "ratio": 0.7313132724100153
+        },
+        {
+          "token": "Others",
+          "usd": 12264.99192079384,
+          "ratio": 0.2686867275899848
+        }
+      ],
+      "usds_30d": [
+        { "token": "BNB", "usd": 0.0, "ratio": 0.0 },
+        {
+          "token": "BTC Standard Hashrate Token",
+          "usd": 159978.85004820107,
+          "ratio": 0.626615306904155
+        },
+        {
+          "token": "Others",
+          "usd": 95327.47312253324,
+          "ratio": 0.37338469309584493
+        }
+      ],
+      "dapp": {
+        "pk": 5579,
+        "identifier": "btcst",
+        "name": "BTCST",
+        "icon": "https://dappimg.com/media/image/dapp/a5cb1d0b43134088af08c2c462375037.blob",
+        "category": {
+          "pk": 2,
+          "name": "Finance",
+          "icon": "https://dappimg.com/media/image/category/8969764fde93468f8ad5298b3ed45289.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 56,
+            "name": "BNB Chain",
+            "icon": "https://dappimg.com/media/image/chain/41f2c77c290f41d7a2b151e6860c86b4.png",
+            "icon_new": "https://dappimg.com/media/image/chain/2ccb44b9873d45d1a0ca4cca58cfe592.png",
+            "color_icon": "https://dappimg.com/media/image/chain/636c8ed981c4468f99b46e8a42dd4e13.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2021-02-25 22:53:46",
+        "abstract": "Each BTCST is collateralized by 0.1 TH/s of Bitcoin mining power.",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 313,
+        "social_signal_gr": 0.422727272727273,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 71.0388372372636,
+      "ranking_gr": -0.0866194285010432,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 113452,
+      "community_gr": 0.0,
+      "user_24h": 57,
+      "amount_24h": 168,
+      "volume_24h": 9.94610590855739,
+      "usd_24h": 3313.90481385863,
+      "user_24h_gr": 0.461538461538462,
+      "amount_24h_gr": 0.0700636942675159,
+      "volume_24h_gr": -0.897207746490514,
+      "usd_24h_gr": -0.889092010044892,
+      "user_7d": 146,
+      "amount_7d": 836,
+      "volume_7d": 202.129398153788,
+      "usd_7d": 62875.7335133946,
+      "user_7d_gr": 0.17741935483871,
+      "amount_7d_gr": 0.326984126984127,
+      "volume_7d_gr": 0.369512706630885,
+      "usd_7d_gr": -0.492654137890486,
+      "user_30d": 375,
+      "amount_30d": 2802,
+      "volume_30d": 456.189476526919,
+      "usd_30d": 259700.388425056,
+      "user_30d_gr": -0.157303370786517,
+      "amount_30d_gr": -0.10536398467433,
+      "volume_30d_gr": 0.051337344992933,
+      "usd_30d_gr": -0.0396564092212101,
+      "usds_24h": [
+        {
+          "token": "BNB",
+          "usd": 2983.931233626302,
+          "ratio": 0.9004275624174878
+        },
+        {
+          "token": "Wrapped BNB",
+          "usd": 266.3039920438616,
+          "ratio": 0.08035957790042376
+        },
+        {
+          "token": "Others",
+          "usd": 63.66958818846344,
+          "ratio": 0.019212859682088513
+        }
+      ],
+      "usds_7d": [
+        {
+          "token": "BNB",
+          "usd": 61256.04095314474,
+          "ratio": 0.974239782667429
+        },
+        {
+          "token": "Wrapped BNB",
+          "usd": 1516.7186260744104,
+          "ratio": 0.024122480030412678
+        },
+        {
+          "token": "Others",
+          "usd": 102.97393417544495,
+          "ratio": 0.0016377373021582025
+        }
+      ],
+      "usds_30d": [
+        {
+          "token": "BNB",
+          "usd": 150479.06899752936,
+          "ratio": 0.5794333613057119
+        },
+        {
+          "token": "Wrapped BNB",
+          "usd": 75840.55432119986,
+          "ratio": 0.2920309622220135
+        },
+        {
+          "token": "Others",
+          "usd": 33380.7651063271,
+          "ratio": 0.12853567647227462
+        }
+      ],
+      "dapp": {
+        "pk": 6033,
+        "identifier": "jetswap",
+        "name": "Jetswap",
+        "icon": "https://dappimg.com/media/image/dapp/e87e57d53e184d5fb75ef5a03608b051.blob",
+        "category": {
+          "pk": 10,
+          "name": "Exchange",
+          "icon": "https://dappimg.com/media/image/category/e0bde8ede0cd4c47a9553f0aba410731.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 56,
+            "name": "BNB Chain",
+            "icon": "https://dappimg.com/media/image/chain/41f2c77c290f41d7a2b151e6860c86b4.png",
+            "icon_new": "https://dappimg.com/media/image/chain/2ccb44b9873d45d1a0ca4cca58cfe592.png",
+            "color_icon": "https://dappimg.com/media/image/chain/636c8ed981c4468f99b46e8a42dd4e13.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2021-06-01 09:05:12",
+        "abstract": "Decentralized AMM on BSC with low fees and instant trade execution",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 159,
+        "social_signal_gr": -0.5,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 64.3263913366935,
+      "ranking_gr": -0.00943590830408921,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 18212,
+      "community_gr": 0.0,
+      "user_24h": 120,
+      "amount_24h": 152,
+      "volume_24h": 0.0,
+      "usd_24h": 0.0,
+      "user_24h_gr": 0.0810810810810811,
+      "amount_24h_gr": -0.182795698924731,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": 1.0,
+      "user_7d": 166,
+      "amount_7d": 774,
+      "volume_7d": 0.0,
+      "usd_7d": 0.0,
+      "user_7d_gr": -0.20952380952381,
+      "amount_7d_gr": -0.665947345705654,
+      "volume_7d_gr": 1.0,
+      "usd_7d_gr": 1.0,
+      "user_30d": 372,
+      "amount_30d": 5620,
+      "volume_30d": 0.0,
+      "usd_30d": 0.0,
+      "user_30d_gr": -0.392156862745098,
+      "amount_30d_gr": -0.12597200622084,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": 1.0,
+      "usds_24h": [{ "token": "KAI", "usd": 0.0, "ratio": 0 }],
+      "usds_7d": [{ "token": "KAI", "usd": 0.0, "ratio": 0 }],
+      "usds_30d": [{ "token": "KAI", "usd": 0.0, "ratio": 0 }],
+      "dapp": {
+        "pk": 7479,
+        "identifier": "kripto-galaxy-battle",
+        "name": "Kripto Galaxy Battle",
+        "icon": "https://dappimg.com/media/image/dapp/dca10cdf088f4338a4eb83269e051c52.blob",
+        "category": {
+          "pk": 1,
+          "name": "Game",
+          "icon": "https://dappimg.com/media/image/category/51b6f2a9f70a41d8a834c98cdbebcc1f.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 74,
+            "name": "Kardiachain",
+            "icon": "https://dappimg.com/media/image/chain/67e1aded784f48c7a31ab043d248d7c7.png",
+            "icon_new": "https://dappimg.com/media/image/chain/7207f21a6ae34362a07535cc68579697.png",
+            "color_icon": "https://dappimg.com/media/image/chain/705cce4fb78d4541a96d6f363a5a939b.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2022-03-15 10:06:40",
+        "abstract": "Idle NFT game built on KardiaChain that promotes mass adoption",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 21,
+        "social_signal_gr": -0.7375,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 27.1928495295785,
+      "ranking_gr": 0.102300399003338,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 0,
+      "community_gr": 0.0,
+      "user_24h": 5,
+      "amount_24h": 5,
+      "volume_24h": 0.035,
+      "usd_24h": 0.01915102,
+      "user_24h_gr": 0.666666666666667,
+      "amount_24h_gr": 0.25,
+      "volume_24h_gr": 0.0,
+      "usd_24h_gr": 0.0400967156961515,
+      "user_7d": 13,
+      "amount_7d": 21,
+      "volume_7d": 0.176,
+      "usd_7d": 0.089707884,
+      "user_7d_gr": 0.857142857142857,
+      "amount_7d_gr": 0.105263157894737,
+      "volume_7d_gr": -0.435897435897436,
+      "usd_7d_gr": -0.541438294338814,
+      "user_30d": 370,
+      "amount_30d": 589,
+      "volume_30d": 2.143,
+      "usd_30d": 1.705405444,
+      "user_30d_gr": 0.321428571428571,
+      "amount_30d_gr": 0.311804008908686,
+      "volume_30d_gr": -0.831631049654306,
+      "usd_30d_gr": -0.884668425226725,
+      "usds_24h": [{ "token": "HIVE", "usd": 0.01915102, "ratio": 1.0 }],
+      "usds_7d": [
+        { "token": "HIVE", "usd": 0.08970788400000002, "ratio": 1.0 }
+      ],
+      "usds_30d": [
+        { "token": "HIVE", "usd": 1.7054054440000002, "ratio": 1.0 }
+      ],
+      "dapp": {
+        "pk": 4751,
+        "identifier": "hivebit",
+        "name": "hiveBIT",
+        "icon": "https://dappimg.com/media/image/dapp/458f06a8728e4d6f97f03d918d621733.blob",
+        "category": {
+          "pk": 5,
+          "name": "Utilities",
+          "icon": "https://dappimg.com/media/image/category/d8368da1bb724c9dadb15c7b9ad6ba60.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 21,
+            "name": "Hive",
+            "icon": "https://dappimg.com/media/image/chain/1eff39c8250646cb89cb51248fb779b2.png",
+            "icon_new": "https://dappimg.com/media/image/chain/7625616c349641a1b11f5a67e4f376d4.png",
+            "color_icon": "https://dappimg.com/media/image/chain/6c02f69ac738432da25bda037d69f6be.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2020-08-28 05:05:51",
+        "abstract": "Easily export & track ALL of your Hive transaction data, for FREE.",
+        "heat": 0,
+        "has_token": false,
+        "alexa_ranking": 1999063,
+        "social_signal": 0,
+        "social_signal_gr": 0.0,
+        "social_top100": false
+      },
+      "has_token": false
+    },
+    {
+      "ranking": 37.5151869462995,
+      "ranking_gr": 0.0406371674965869,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 22,
+      "community_gr": 0.0,
+      "user_24h": 20,
+      "amount_24h": 22,
+      "volume_24h": 0.0,
+      "usd_24h": 0.0,
+      "user_24h_gr": 0.333333333333333,
+      "amount_24h_gr": 0.222222222222222,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": 1.0,
+      "user_7d": 90,
+      "amount_7d": 205,
+      "volume_7d": 0.0,
+      "usd_7d": 0.0,
+      "user_7d_gr": 0.267605633802817,
+      "amount_7d_gr": 0.28125,
+      "volume_7d_gr": 1.0,
+      "usd_7d_gr": 1.0,
+      "user_30d": 367,
+      "amount_30d": 936,
+      "volume_30d": 0.0,
+      "usd_30d": 0.0,
+      "user_30d_gr": -0.0960591133004926,
+      "amount_30d_gr": 0.0845886442641947,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": -1.0,
+      "usds_24h": [{ "token": "ETH", "usd": 0.0, "ratio": 0 }],
+      "usds_7d": [{ "token": "ETH", "usd": 0.0, "ratio": 0 }],
+      "usds_30d": [{ "token": "ETH", "usd": 0.0, "ratio": 0 }],
+      "dapp": {
+        "pk": 3740,
+        "identifier": "f1-delta-time",
+        "name": "F1® Delta Time",
+        "icon": "https://dappimg.com/media/image/dapp/d33ab5b69a7047ada506f17e6800416f.blob",
+        "category": {
+          "pk": 1,
+          "name": "Game",
+          "icon": "https://dappimg.com/media/image/category/51b6f2a9f70a41d8a834c98cdbebcc1f.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 1,
+            "name": "Ethereum",
+            "icon": "https://dappimg.com/media/image/chain/84e0e372b99b447e9612e850dcd024e0.png",
+            "icon_new": "https://dappimg.com/media/image/chain/a70cd16d51fb4c7d974b4f01f4f6cc8d.png",
+            "color_icon": "https://dappimg.com/media/image/chain/c95deff72e7c4181ad90d80d7819e8e0.png",
+            "support_token": true
+          }
+        ],
+        "add_time": "2019-10-02 11:06:16",
+        "abstract": "High-Octane Racing Brought To Blockchain",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 1469958,
+        "social_signal": 3407,
+        "social_signal_gr": 7.87239583333333,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 54.4076836759446,
+      "ranking_gr": -0.0300279496082851,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 16769,
+      "community_gr": 0.0,
+      "user_24h": 14,
+      "amount_24h": 19,
+      "volume_24h": 0.0,
+      "usd_24h": 0.0,
+      "user_24h_gr": -0.263157894736842,
+      "amount_24h_gr": -0.296296296296296,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": 1.0,
+      "user_7d": 96,
+      "amount_7d": 139,
+      "volume_7d": 0.0,
+      "usd_7d": 0.0,
+      "user_7d_gr": -0.0943396226415094,
+      "amount_7d_gr": -0.227777777777778,
+      "volume_7d_gr": -1.0,
+      "usd_7d_gr": -1.0,
+      "user_30d": 362,
+      "amount_30d": 652,
+      "volume_30d": 1.47,
+      "usd_30d": 27303.4789119095,
+      "user_30d_gr": -0.294346978557505,
+      "amount_30d_gr": -0.371868978805395,
+      "volume_30d_gr": 2.675,
+      "usd_30d_gr": -0.288608651444079,
+      "usds_24h": [{ "token": "ETH", "usd": 0.0, "ratio": 0 }],
+      "usds_7d": [{ "token": "ETH", "usd": 0.0, "ratio": 0 }],
+      "usds_30d": [
+        { "token": "ETH", "usd": 3459.5704, "ratio": 0.12670804373178127 },
+        {
+          "token": "Wise",
+          "usd": 23843.90851190953,
+          "ratio": 0.8732919562682188
+        }
+      ],
+      "dapp": {
+        "pk": 5377,
+        "identifier": "wise-token",
+        "name": "WISE",
+        "icon": "https://dappimg.com/media/image/dapp/628f528e2b194b83920f6abf3279acf9.blob",
+        "category": {
+          "pk": 2,
+          "name": "Finance",
+          "icon": "https://dappimg.com/media/image/category/8969764fde93468f8ad5298b3ed45289.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 1,
+            "name": "Ethereum",
+            "icon": "https://dappimg.com/media/image/chain/84e0e372b99b447e9612e850dcd024e0.png",
+            "icon_new": "https://dappimg.com/media/image/chain/a70cd16d51fb4c7d974b4f01f4f6cc8d.png",
+            "color_icon": "https://dappimg.com/media/image/chain/c95deff72e7c4181ad90d80d7819e8e0.png",
+            "support_token": true
+          }
+        ],
+        "add_time": "2020-12-25 08:48:42",
+        "abstract": "The new way to do De-Fi! Audited by CoinFabrik, no admin keys!",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 559,
+        "social_signal_gr": 0.510810810810811,
+        "social_top100": false
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 47.8364968387592,
+      "ranking_gr": 0.0204603869830908,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 24503,
+      "community_gr": 0.0,
+      "user_24h": 3,
+      "amount_24h": 4,
+      "volume_24h": 0.2767,
+      "usd_24h": 83.012767,
+      "user_24h_gr": 0.5,
+      "amount_24h_gr": 0.333333333333333,
+      "volume_24h_gr": -0.7233,
+      "usd_24h_gr": -0.730652929915639,
+      "user_7d": 19,
+      "amount_7d": 42,
+      "volume_7d": 1.4138,
+      "usd_7d": 429.810777,
+      "user_7d_gr": -0.5,
+      "amount_7d_gr": -0.596153846153846,
+      "volume_7d_gr": -0.763182579564489,
+      "usd_7d_gr": -0.798239433466028,
+      "user_30d": 362,
+      "amount_30d": 815,
+      "volume_30d": 43.71461,
+      "usd_30d": 16794.1004384,
+      "user_30d_gr": 1.0,
+      "amount_30d_gr": 1.0,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": 1.0,
+      "usds_24h": [{ "token": "BNB", "usd": 83.012767, "ratio": 1.0 }],
+      "usds_7d": [{ "token": "BNB", "usd": 429.81077700000003, "ratio": 1.0 }],
+      "usds_30d": [{ "token": "BNB", "usd": 16794.100438399997, "ratio": 1.0 }],
+      "dapp": {
+        "pk": 7678,
+        "identifier": "petsneaker",
+        "name": "PETSNEAKER",
+        "icon": "https://dappimg.com/media/image/dapp/fca1b5292d2d49c89d31aae6ea9806d0.blob",
+        "category": {
+          "pk": 1,
+          "name": "Game",
+          "icon": "https://dappimg.com/media/image/category/51b6f2a9f70a41d8a834c98cdbebcc1f.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 56,
+            "name": "BNB Chain",
+            "icon": "https://dappimg.com/media/image/chain/41f2c77c290f41d7a2b151e6860c86b4.png",
+            "icon_new": "https://dappimg.com/media/image/chain/2ccb44b9873d45d1a0ca4cca58cfe592.png",
+            "color_icon": "https://dappimg.com/media/image/chain/636c8ed981c4468f99b46e8a42dd4e13.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2022-04-22 14:01:38",
+        "abstract": "PetSneakers - Move to earn - Win yourself, be a helper",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 34376,
+        "social_signal_gr": 1.02021626704278,
+        "social_top100": true
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 59.5304929921557,
+      "ranking_gr": 0.0384242818457491,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 37950,
+      "community_gr": 0.0,
+      "user_24h": 15,
+      "amount_24h": 64,
+      "volume_24h": 0.0,
+      "usd_24h": 0.0,
+      "user_24h_gr": 0.363636363636364,
+      "amount_24h_gr": 0.560975609756098,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": 1.0,
+      "user_7d": 72,
+      "amount_7d": 361,
+      "volume_7d": 0.0,
+      "usd_7d": 963.308706108983,
+      "user_7d_gr": -0.314285714285714,
+      "amount_7d_gr": -0.38917089678511,
+      "volume_7d_gr": 1.0,
+      "usd_7d_gr": 14.1875981667811,
+      "user_30d": 354,
+      "amount_30d": 2499,
+      "volume_30d": 0.0,
+      "usd_30d": 1341.59862421191,
+      "user_30d_gr": -0.42156862745098,
+      "amount_30d_gr": -0.461538461538462,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": -0.618124631534539,
+      "usds_24h": [{ "token": "BNB", "usd": 0.0, "ratio": 0 }],
+      "usds_7d": [
+        { "token": "BNB", "usd": 0.0, "ratio": 0.0 },
+        { "token": "COW", "usd": 963.3087061089832, "ratio": 1.0 }
+      ],
+      "usds_30d": [
+        { "token": "BNB", "usd": 0.0, "ratio": 0.0 },
+        { "token": "COW", "usd": 1341.5986242119136, "ratio": 1.0 }
+      ],
+      "dapp": {
+        "pk": 6914,
+        "identifier": "cashcow-protocol",
+        "name": "CashCow Protocol",
+        "icon": "https://dappimg.com/media/image/dapp/f83f2930f1b042b086938311c303baf6.blob",
+        "category": {
+          "pk": 1,
+          "name": "Game",
+          "icon": "https://dappimg.com/media/image/category/51b6f2a9f70a41d8a834c98cdbebcc1f.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 56,
+            "name": "BNB Chain",
+            "icon": "https://dappimg.com/media/image/chain/41f2c77c290f41d7a2b151e6860c86b4.png",
+            "icon_new": "https://dappimg.com/media/image/chain/2ccb44b9873d45d1a0ca4cca58cfe592.png",
+            "color_icon": "https://dappimg.com/media/image/chain/636c8ed981c4468f99b46e8a42dd4e13.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2021-11-18 10:27:39",
+        "abstract": "CashCow Protocol is a community driven project with DeFi, NFT and P2E",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 14407,
+        "social_signal_gr": 0.335589135069992,
+        "social_top100": true
+      },
+      "has_token": true
+    },
+    {
+      "ranking": 58.6333042906332,
+      "ranking_gr": 0.0152098400437219,
+      "tvl": 0.0,
+      "tvl_gr": 1.0,
+      "community": 18511,
+      "community_gr": 0.0,
+      "user_24h": 18,
+      "amount_24h": 56,
+      "volume_24h": 0.0,
+      "usd_24h": 630.029771836561,
+      "user_24h_gr": 0.2,
+      "amount_24h_gr": 0.166666666666667,
+      "volume_24h_gr": 1.0,
+      "usd_24h_gr": -0.559140062630009,
+      "user_7d": 84,
+      "amount_7d": 390,
+      "volume_7d": 0.0,
+      "usd_7d": 10861.7176095663,
+      "user_7d_gr": -0.305785123966942,
+      "amount_7d_gr": -0.404580152671756,
+      "volume_7d_gr": 1.0,
+      "usd_7d_gr": -0.195413260828185,
+      "user_30d": 351,
+      "amount_30d": 3040,
+      "volume_30d": 0.0,
+      "usd_30d": 72956.5368147023,
+      "user_30d_gr": -0.355963302752294,
+      "amount_30d_gr": -0.528462850938421,
+      "volume_30d_gr": 1.0,
+      "usd_30d_gr": -0.798857029872231,
+      "usds_24h": [
+        { "token": "BNB", "usd": 0.0, "ratio": 0.0 },
+        { "token": "LICO", "usd": 630.0297718365614, "ratio": 1.0 }
+      ],
+      "usds_7d": [
+        { "token": "BNB", "usd": 0.0, "ratio": 0.0 },
+        { "token": "LICO", "usd": 10861.717609566283, "ratio": 1.0 }
+      ],
+      "usds_30d": [
+        { "token": "BNB", "usd": 0.0, "ratio": 0.0 },
+        { "token": "LICO", "usd": 72956.53681470233, "ratio": 1.0 }
+      ],
+      "dapp": {
+        "pk": 7004,
+        "identifier": "liquid-collectibles",
+        "name": "Liquid Collectibles",
+        "icon": "https://dappimg.com/media/image/dapp/b9619b4ac94547bfa31f95a0543d5152.blob",
+        "category": {
+          "pk": 7,
+          "name": "Marketplace",
+          "icon": "https://dappimg.com/media/image/category/e22241e3491940d79aca04e10ae8f662.png",
+          "background_color": null
+        },
+        "chains": [
+          {
+            "pk": 56,
+            "name": "BNB Chain",
+            "icon": "https://dappimg.com/media/image/chain/41f2c77c290f41d7a2b151e6860c86b4.png",
+            "icon_new": "https://dappimg.com/media/image/chain/2ccb44b9873d45d1a0ca4cca58cfe592.png",
+            "color_icon": "https://dappimg.com/media/image/chain/636c8ed981c4468f99b46e8a42dd4e13.png",
+            "support_token": false
+          }
+        ],
+        "add_time": "2021-12-02 09:29:12",
+        "abstract": "First of its kind NFT liquidity maker on BSC with DeFi features.",
+        "heat": 0,
+        "has_token": true,
+        "alexa_ranking": 0,
+        "social_signal": 5618,
+        "social_signal_gr": 0.385108481262327,
+        "social_top100": false
+      },
+      "has_token": true
+    }
+  ],
+  "update_at": null
+}

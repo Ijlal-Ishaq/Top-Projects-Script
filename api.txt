@@ -1,0 +1,1 @@
+https://www.dapp.com/api/ranking/dapp/?chain=0&order=desc&page=1&sort=user_30d
